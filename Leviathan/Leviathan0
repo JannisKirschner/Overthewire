@@ -1,0 +1,16 @@
+Leviathan0
+----------
+
+Exploit:
+--------
+
+ssh: leviathan.labs.overthewire.org
+user: leviathan0
+PW: leviathan0 
+
+
+ls -lah
+cd .backup
+cat bookmarks.html | grep password
+
+solution & PW: rioGegei8m    
