@@ -1,0 +1,19 @@
+Leviathan1
+----------
+
+ssh: leviathan.labs.overthewire.org
+user: leviathan1
+PW: rioGegei8m
+
+-./check
+I've inserted test which "Wrong password, Good Bye..." 
+-ltrace ./check (and press enter/fill in characters several times)
+
+That returnes the following suspicious looking function: strcmp("yourinput1\2\3", "sex")
+-./check  and insert: sex
+
+**strcmp = stringcompare / compares strings with eachother***
+
+-cat /etc/leviathan_pass/leviathan2
+
+Solution & PW: ougahZi8Ta
