@@ -12,7 +12,7 @@ I've inserted test which "Wrong password, Good Bye..."
 That returnes the following suspicious looking function: strcmp("yourinput1\2\3", "sex")
 -./check  and insert: sex
 
-**strcmp = stringcompare / compares strings with eachother***
+**strcmp = stringcompare / compares strings with eachother*** http://www.cplusplus.com/reference/cstring/strcmp/
 
 -cat /etc/leviathan_pass/leviathan2
 
